@@ -30,3 +30,4 @@ def salutacio(nom):
 
 print(salutacio("estudiant"))
 M'agrada aprendre GitHub! :smile:
+provar push
